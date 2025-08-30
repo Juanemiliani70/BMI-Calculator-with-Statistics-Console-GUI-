@@ -21,14 +21,9 @@ It includes two modes:
 
 ## 📷 Screenshots
 
-### Console Version
-![Console Demo](img/img1.jpeg)
-
-### GUI Input
-![GUI Input](img/img2.jpeg)
-
-### GUI Result
-![GUI Result](img/img3.jpeg)
+![imagen1](img/img1.jpeg)
+![imagen2](img/img2.jpeg)
+![imagen3](img/img3.jpeg)
 
 ---
 
