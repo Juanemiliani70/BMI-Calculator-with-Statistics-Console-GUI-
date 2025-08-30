@@ -22,13 +22,13 @@ It includes two modes:
 ## 📷 Screenshots
 
 ### Console Version
-![Console Demo](img/img1.png)
+![Console Demo](img/img1.jpeg)
 
 ### GUI Input
-![GUI Input](img/img2.png)
+![GUI Input](img/img2.jpeg)
 
 ### GUI Result
-![GUI Result](img/img3.png)
+![GUI Result](img/img3.jpeg)
 
 ---
 
