@@ -21,9 +21,9 @@ It includes two modes:
 
 ## 📷 Screenshots
 
-![imagen1](img/img1.jpeg)
-![imagen2](img/img2.jpeg)
-![imagen3](img/img3.jpeg)
+![imagen1](img/img1.jpg)
+![imagen2](img/img2.jpg)
+![imagen3](img/img3.jpg)
 
 ---
 
